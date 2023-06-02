@@ -77,7 +77,8 @@ Step 27: End If
 </pre>
 
 ### UML
-![UML](https://user-images.githubusercontent.com/98077236/211531198-df73776d-d5a7-438c-8b1b-f3941f506823.png)
+![UML - Red Black Tree](https://github.com/Samuel-Nadar1211/Red-Black-Tree/assets/98077236/526550e0-bf2c-4369-beb4-903012959f68)
+
 
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/98077236/211507087-85e93dc5-1dd6-4f99-8270-62b1329b3155.png)
